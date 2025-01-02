@@ -19,7 +19,7 @@
 
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anaghad01&show_icons=true&locale=en&layout=compact" alt="anaghad01" /></p>-->
 
-<p align="center"> 
+<!--<p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CuriosityFTW/count.svg" />
-</p>
+</p>-->
