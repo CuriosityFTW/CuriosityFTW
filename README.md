@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">I am a Flight Controls Engineer at Airbus.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anaghad01&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CuriosityFTW&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 <!--- 👨‍💻 My projects are available at [https://anaghad01.github.io/](https://anaghad01.github.io/)
 
