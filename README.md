@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h1 align="center">Hi 👋 I'm Aditya</h1>
 <h3 align="center">I am a Flight Controls Engineer at Airbus.</h3>
 
 🌍 For the best experience, head over to my website: [https://curiosityftw.github.io/](https://curiosityftw.github.io/)
