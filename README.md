@@ -3,7 +3,7 @@
 
 🌍 For the best experience, head over to my website: [https://curiosityftw.github.io/](https://curiosityftw.github.io/)
 
-📫 Reach me at: **adityashekharkumar@gmail.com**
+📫 Write to me: **adityashekharkumar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
